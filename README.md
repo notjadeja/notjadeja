@@ -1,4 +1,4 @@
-Hi, I'm Yashvardhan Sinh Jadeja
+Hi, I'm Yashvardhan
 
 Currently pursuing a Bachelor's degree in IT
 
