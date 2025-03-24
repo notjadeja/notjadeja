@@ -22,9 +22,8 @@
 
 ---
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/gulaal-gulaal-movie-gulaal2009-jaipur-gif-19864452" width="400"/>
+  <img src="https://media.tenor.com/EyV6cB5zzYIAAAAC/gulaal-gulaal-movie.gif" width="400"/>
 </p>
-
 ---
 
 ## Connect with me
