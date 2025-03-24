@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Yashvardhan Sinh Jadeja 🌌🚀</h1>
+<h1 align="center">Hi, I'm Yashvardhan Sinh Jadeja </h1>
 
 ## 👨‍💻 About Me  
-- 🎓 Currently pursuing a **Bachelor's degree in IT** (Cloud & Application Development).  
-- 🌍 Passionate about **GIS** and **Vector-designing softwares**
--    Still figuring out **GitHub**, so you won't find much here... yet
+- 🎓 Currently pursuing a **Bachelor's degree in IT**
+- 🌍 Passionate about coding. Crazy passionate about everything **GIS** (Might soon share my mapping portfolio over here)
+-    Still figuring out this website so you won't find much here... yet
 
 ---
 
@@ -27,6 +27,7 @@
 
 ---
 
-## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-notjadeja-8000ff?style=for-the-badge&logo=github)](https://github.com/notjadeja)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff007f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff007f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+
+
