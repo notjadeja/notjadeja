@@ -3,7 +3,8 @@
 ## 👨‍💻 About Me  
 - 🎓 Currently pursuing a **Bachelor's degree in IT**
 - 🌍 Passionate about coding. Crazy passionate about everything **GIS** (Might soon share my mapping portfolio over here)
--    Still figuring out this website so you won't find much here... yet
+
+  P.S Im still figuring out this site so you won't find much here... yet
 
 ---
 
