@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yashvardhan Sinh Jadeja </h1>
+<h1 align="center">Hi, I'm Yashvardhan </h1>
 
 ## 👨‍💻 About Me  
 - 🎓 Currently pursuing a **Bachelor's degree in IT**
